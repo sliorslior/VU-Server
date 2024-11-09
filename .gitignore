@@ -232,3 +232,7 @@ cython_debug/
 
 *.pid.lock
 upload/*
+
+
+#local runtime DB
+vudials.db
